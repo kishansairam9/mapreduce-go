@@ -22,4 +22,4 @@
 cd src/main
 ./test-mr.sh
 ```
-- `test-mr-many.sh` takes arugment trail - more runs imply more robust check (useful for the random timing test)
+- `test-mr-many.sh` takes arugment trails - no of iterations to run tests. More robust testing
